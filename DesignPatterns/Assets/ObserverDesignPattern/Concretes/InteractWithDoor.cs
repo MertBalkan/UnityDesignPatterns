@@ -4,26 +4,26 @@ using UnityEngine;
 
 namespace ObserverDesignPattern.Concretes
 {
-    public class InteractWithCube : MonoBehaviour, IInteract
+    public class InteractWithDoor : MonoBehaviour, IInteract
     {
         private void OnEnable()
         {
-            PlayerObserver.OnPlayerCollect += Interact;
+            PlayerObserver.OnPlayerInteractDoor += Interact;
         }
 
         private void OnDisable()
         {
-            PlayerObserver.OnPlayerCollect -= Interact;
+            PlayerObserver.OnPlayerInteractDoor -= Interact;
         }
 
         public void Interact()
         {
-            throw new NotImplementedException();
+            Debug.Log("S VE A");
         }
 
         public void Interact(int scorePoint)
         {
-            Debug.Log("Cube point: " + scorePoint);
+            throw new NotImplementedException();
         }
     }
 }

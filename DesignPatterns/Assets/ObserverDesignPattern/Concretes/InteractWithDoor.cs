@@ -18,7 +18,7 @@ namespace ObserverDesignPattern.Concretes
 
         public void Interact()
         {
-            Debug.Log("S VE A");
+            //Implement UI
         }
 
         public void Interact(int scorePoint)

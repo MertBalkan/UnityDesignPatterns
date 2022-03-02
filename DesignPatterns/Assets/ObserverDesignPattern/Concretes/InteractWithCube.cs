@@ -23,7 +23,7 @@ namespace ObserverDesignPattern.Concretes
 
         public void Interact(int scorePoint)
         {
-            Debug.Log("Cube point: " + scorePoint);
+            //Implement UI
         }
     }
 }

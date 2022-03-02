@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87afc4ef-1694-4c29-b43a-12d0fa04a0ff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animators.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animators/InteractDoor.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animators/InteractDoor.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Abstracts/IInteract.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Abstracts/IInteract.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithCube.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithCube.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/PlayerObserver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/PlayerObserver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646245784501</updated>
-      <workItem from="1646245788660" duration="7787000" />
+      <workItem from="1646245788660" duration="8117000" />
     </task>
     <servers />
   </component>

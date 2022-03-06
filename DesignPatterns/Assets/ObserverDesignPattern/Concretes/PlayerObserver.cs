@@ -6,9 +6,10 @@ namespace ObserverDesignPattern.Concretes
     public class PlayerObserver : MonoBehaviour
     {
         [SerializeField] private int scorePoint;
+        [SerializeField] private int doorClickPoint;
 
         public static System.Action<int> OnPlayerCollect;
-        public static System.Action OnPlayerInteractDoor;
+        public static System.Action<int> OnPlayerInteractDoor;
 
         private void OnTriggerEnter(Collider other)
         {
@@ -23,10 +24,11 @@ namespace ObserverDesignPattern.Concretes
         private void OnCollisionStay(Collision collision)
         {
 
-            if (collision.gameObject.CompareTag("Door") && Input.GetKeyDown(KeyCode.E))
+            if (collision.gameObject.CompareTag("Door") && Input.GetKey(KeyCode.E))
             {
                 collision.gameObject.transform.Rotate(new Vector3(0, 90, 0) * Time.deltaTime * 50);
-                OnPlayerInteractDoor?.Invoke();
+                doorClickPoint++;
+                OnPlayerInteractDoor?.Invoke(doorClickPoint);
             }
         }
     }

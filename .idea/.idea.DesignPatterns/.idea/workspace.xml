@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87afc4ef-1694-4c29-b43a-12d0fa04a0ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithCube.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithCube.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithDoor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithDoor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/PlayerObserver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/PlayerObserver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="87afc4ef-1694-4c29-b43a-12d0fa04a0ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +14,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ObserverDesignPattern/Abstracts/IInteract.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithCube.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/InteractWithDoor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/PlayerObserver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ObserverDesignPattern/Concretes/UIObserverPattern.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SingletonDesignPattern/Abstracts/SingletonMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
@@ -89,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1646245784501</updated>
       <workItem from="1646245788660" duration="8117000" />
-      <workItem from="1646588756298" duration="1282000" />
+      <workItem from="1646588756298" duration="1793000" />
     </task>
     <servers />
   </component>
